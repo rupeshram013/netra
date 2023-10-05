@@ -1,0 +1,14 @@
+1.
+insert into netra_content.news (title , date , image , description ) values ("Mayor Shah listed as emerging leader in 2023 TIME100 Next " , "2023.13.15", "images/bolon.jpg" , "Balendra Shah, the mayor of Kathmandu Metropolitan City (KMC), has been named one of the TIME100 Next emerging leaders of the globe for 2023. Shah is one of the 100 up-and-coming individuals included on the 2023 TIME100 Next. Shah became the mayor of KMC after winning the local elections in 2079.
+
+According to the magazine, the 33-year-old, who holds a master's degree in structural engineering, ran as an independent and used social media platforms like TikTok, Twitter, and Instagram to capitalize on voter resentment of the status quo. This created a 'Balen effect' that led to up to 385 independent candidates beating out seasoned politicians in the local election last spring. ")
+
+2.
+
+insert into netra_content.news (title , date , image , description ) values ("The government declares a holiday to mourn Subas Chandra Nembang's passing. " , "2023.09.15", "images/mango.webp" , "Former speaker and Vice-Chair of the CPN-UML Subas Chandra Nembang is no more, and the nation mourns this loss. He had suffered a heart attack Tuesday morning and was assumed dead on being brought to the TU Teaching Hospital at Maharajgunj.He was 71.
+");
+
+3.
+insert into netra_content.news (title , date , image , description ) values ("Heavy rains trigger floods and landslides in India's Himalayan region, leaving at least 33 dead " , "2023.13.15", "images/flood.jpg" , "Heavy monsoon rains triggered floods and landslides in India's Himalayan region, leaving at least 33 people dead and many others trapped, officials told local media on Monday. Torrential downpours that began over the weekend in the mountainous Himachal Pradesh state have flooded roads and washed away homes as scores of rescuers work to help those trapped under piles of debris.
+
+A cloudburst in the state's Solan district on Sunday night killed nine people in the area, and 12 people died following two landslides in Shimla, the state's capital, authorities told the Press Trust of India news agency. ");

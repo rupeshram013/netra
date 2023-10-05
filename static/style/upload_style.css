@@ -1,0 +1,134 @@
+
+
+
+
+
+
+#forms .form {
+    font-size: 1.9em;
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    border: 0.1em solid rgb(56, 89, 224);
+    padding: 1em;
+    background-color: white;
+}
+
+#forms .form h1{
+    font-size: 3em;
+    text-align: center;
+    font-weight: 2000;
+    margin-bottom: 0.5em;
+    margin-top: 0px;
+}
+
+#forms .form input{
+    font-size: 0.9em;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid rgb(67, 65, 65);
+    margin-bottom: 1em;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(240, 248, 255, 0);
+}
+
+#forms h3{
+    margin-left: 1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+} 
+
+#forms textarea {
+    text-indent: none;
+    resize: none;
+    height: 20em;
+    font-size: 0.6em;
+    padding: 0px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    outline: none;
+    padding: 0.2em;
+    border: 1px solid rgb(203, 203, 203);
+    margin-bottom: 1em;
+}
+
+#forms .form label {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+    border: 0.1em solid rgb(56, 89, 224);
+    padding: 0.1em;
+    font-size: 0.8em;
+}
+
+#forms .form label:hover {
+    cursor: pointer;
+    border: 0.2em solid rgb(56, 89, 224);
+    padding: 0.1em;
+    font-size: 0.8em;
+}
+
+#forms .form #images{
+    display: none;
+}
+
+#forms .form button {
+    font-size: 1em;
+    font-weight: 700;
+    border: none;
+    width: 45%;
+    background-color: rgb(56, 89, 224);
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1.5em;
+}
+
+#forms .form button:hover {
+    background-color: rgba(240, 248, 255, 0);
+    border: 3px solid rgb(56, 89, 224);
+    color:rgb(56, 89, 224);
+    cursor: pointer;
+}
+
+@media (max-width:777px){
+
+    
+
+    #forms .form h1{
+        font-size: 2em;
+    }
+    #forms .form input{
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width:625px){
+
+    #forms .form {
+        width: 75%;
+    }
+
+    #forms .form h1{
+        font-size: 2em;
+    }
+    #forms .form input{
+        font-size: 0.9em;
+    }
+}
+
+
+
+
+
+
+
+
+
+
