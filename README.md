@@ -2,7 +2,7 @@ NETRA
 
 
 
-  Netra , a side project that will fullfill the web requirement of all the Nepali people of Nepal .Promised to work for the accurate and well verified information sharing .A non toxic and vulgar environment for we Nepali People .
+  Netra , a side project that was build in short period of time for sharing content using the web .It's just like reddit with thread options .
 This project right now has following features ;
 ![Screenshot_2023-10-05_21-09-50](https://github.com/rupeshram013/netra/assets/94728392/467226b9-0bf2-4f3b-b192-57e5a797d8bf)
 
